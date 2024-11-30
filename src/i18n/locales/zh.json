@@ -1,0 +1,22 @@
+{
+  "header": {
+    "title": "实用工具",
+    "subtitle": "为开发者和创作者精心策划的最佳工具集合"
+  },
+  "search": {
+    "placeholder": "搜索工具或描述您的需求...",
+    "aiSuggestion": "AI 建议"
+  },
+  "categories": {
+    "all": "全部",
+    "development": "开发",
+    "productivity": "生产力",
+    "design": "设计",
+    "communication": "通讯"
+  },
+  "noResults": "没有找到符合条件的工具。",
+  "language": {
+    "en": "English",
+    "zh": "中文"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "header": {
+    "title": "Useful Tools",
+    "subtitle": "A curated collection of the best tools for developers and creators"
+  },
+  "search": {
+    "placeholder": "Search tools or describe what you need...",
+    "aiSuggestion": "AI Suggestion"
+  },
+  "categories": {
+    "all": "All",
+    "development": "Development",
+    "productivity": "Productivity",
+    "design": "Design",
+    "communication": "Communication"
+  },
+  "noResults": "No tools found matching your criteria.",
+  "language": {
+    "en": "English",
+    "zh": "中文"
+  }
+}
